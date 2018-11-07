@@ -1,5 +1,5 @@
 {
-  "name": "ng-intercom",
+  "name": "@crexi-dev/ng-intercom",
   "version": "6.0.0-beta.7",
   "license": "MIT",
   "repository": {
@@ -56,8 +56,8 @@
   },
   "main": "./dist/server.js",
   "peerDependencies": {
-    "@angular/core": ">=6.0.0 <7.0.0",
-    "@angular/router": ">=6.0.0 <7.0.0"
+    "@angular/core": ">=6.0.0",
+    "@angular/router": ">=6.0.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.6.0",
